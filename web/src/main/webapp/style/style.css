@@ -1,0 +1,46 @@
+body {
+    background-color: #bce8f1;
+    background-size: cover;
+}
+
+#header {
+    background-color: #002a80;
+    color: #ffffff;
+    height: 50px;
+}
+
+#view-table {
+    width: auto;
+    margin: 10px 0px;
+}
+
+#sortId {
+    width:6ch
+}
+
+#sortName {
+    width:6ch
+}
+
+#sortSurname {
+    width:6ch
+}
+
+#sortLogin {
+    width:6ch
+}
+
+#sortMail {
+    width:6ch
+}
+
+#sortPhone {
+    width:6ch
+}
+
+#footer {
+    background: #7aba7b;
+    color: #002a80;
+    height: 50px;
+}
+
